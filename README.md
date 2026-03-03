@@ -1,6 +1,6 @@
 # <summary><strong>Hi there :wave: , I'm Mazedev!</strong></summary>
 Website Developer, currently study at Information Technology Universitas Tidar
-<p align="left"> <img src="https://henji-portofolio.vercel.app/img/profile.png" width=60x alt="henjiprofile" />
+<p align="left"> <img src="https://henji-portofolio.vercel.app/img/profile.png" width=120px alt="henjiprofile" />
 </p>
 
 ### <summary><strong>Tools:</strong></summary>
