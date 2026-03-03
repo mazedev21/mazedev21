@@ -1,6 +1,6 @@
 # <summary><strong>Hi there :wave: , I'm Mazedev!</strong></summary>
 Website Developer, currently study at Information Technology Universitas Tidar
-<p align="left"> <img src="https://henji-portofolio.vercel.app/img/profile.png" alt="henjiprofile" />
+<p align="left"> <img src="https://henji-portofolio.vercel.app/img/profile.png" width=60x alt="henjiprofile" />
 </p>
 
 ### <summary><strong>Tools:</strong></summary>
@@ -19,13 +19,13 @@ Website Developer, currently study at Information Technology Universitas Tidar
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://emannuelhenji.medium.com">
-  <img align="left" alt="Mazedev Portofolio" width="20px" src="https://medium.com/blogging-guide/mediums-new-logo-2020-unfinished-ellipses-logomark-e24c059871e7" />
+  <img align="left" alt="Mazedev Portofolio" width="20px" src="https://miro.medium.com/v2/resize:fit:1400/0*zPzAcHbkOUmfNnuB.jpeg" />
 </a>
 <a href="https://www.instagram.com/emannuelhenji_21/">
   <img align="left" alt="Hanji Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://henji-portofolio.vercel.app">
-  <img align="left" alt="Henji Portofolio" width="20px" src="https://www.flaticon.com/free-icon/website_3037366" />
+  <img align="left" alt="Henji Portofolio" width="20px" src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" />
 </a>
 
 <p>
